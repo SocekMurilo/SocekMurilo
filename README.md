@@ -9,7 +9,7 @@
 
 ###
 
-## Key Linguages
+## Key Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
