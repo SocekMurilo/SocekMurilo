@@ -29,9 +29,11 @@
 
 ## Key Projects
 
-[https://github.com/SocekMurilo/Medieval-Restaurant.git](https://github.com/SocekMurilo/Medieval-Restaurant.git)
+[Football_Strategy](https://github.com/SocekMurilo/Football_Strategy.git)
 <br/>
-[https://github.com/SocekMurilo/ProcessoSeletivo.git](https://github.com/SocekMurilo/ProcessoSeletivo.git)
+[Medieval_Restaurant](https://github.com/SocekMurilo/Medieval-Restaurant.git)
+<br/>
+[Processo_Seletivo](https://github.com/SocekMurilo/ProcessoSeletivo.git)
 <br/>
 
 ###
